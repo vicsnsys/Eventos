@@ -7,8 +7,8 @@
 ![Cenário](https://img.shields.io/badge/Cenário-4-orange?style=for-the-badge)
 ![Fase](https://img.shields.io/badge/Fase-Semana%201-purple?style=for-the-badge)
 
-> **Projeto Integrador — Banco de Dados Ponta a Ponta**
-> Um único lugar para eventos, inscrições e presença do *Instituto Horizonte de Educação Superior*.
+> **Projeto Integrador — Banco de Dados Ponta a Ponta**  
+> Um único lugar para eventos, inscrições e presença do *Instituto Federal do Triângulo Mineiro (IFTM)*.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 1 · Identificação do grupo e cenário
 
-O grupo escolheu o **Cenário 4 — Sistema de Eventos Acadêmicos**.
+**Cenário 4 — Sistema de Eventos Acadêmicos**.
 
 | Campo | Informação |
 |---|---|
@@ -40,7 +40,7 @@ O grupo escolheu o **Cenário 4 — Sistema de Eventos Acadêmicos**.
 
 ## 2 · Contextualização e descrição do problema
 
-O banco de dados centralizará **eventos, inscrições e presença** da organização fictícia **Instituto Horizonte de Educação Superior**.
+O banco de dados centralizará **eventos, inscrições e presença** do **Instituto Federal do Triângulo Mineiro (IFTM)**.
 
 O instituto promove congressos, seminários e semanas acadêmicas ao longo do ano. Cada evento reúne atividades, como palestras, minicursos e mesas-redondas, conduzidas por um ou mais palestrantes.
 
@@ -145,5 +145,5 @@ As cinco perguntas abaixo serão respondidas por **consultas SQL na Semana 4**.
 ---
 
 <p align="center">
-  <sub> Projeto Integrador · Banco de Dados · Prof. Gustavo Prado · Instituto Horizonte de Educação Superior (fictício)</sub>
+  <sub>Projeto Integrador · Banco de Dados · Prof. Gustavo Prado · Instituto Federal do Triângulo Mineiro (IFTM)</sub>
 </p>

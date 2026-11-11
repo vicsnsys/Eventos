@@ -156,5 +156,5 @@ As 8 tabelas estão na **3ª Forma Normal**: os valores são atômicos, nenhum a
 ---
 
 <p align="center">
-  <sub>Projeto Integrador · Banco de Dados · Prof. Gustavo Prado · Instituto Horizonte de Educação Superior (fictício)</sub>
+  <sub>Projeto Integrador · Banco de Dados · Prof. Gustavo Prado · Instituto Federal do Triângulo Mineiro</sub>
 </p>
